@@ -1,0 +1,13 @@
+{
+  "title": "Bridgerton",
+  "id": 1,
+  "logline": "Set in \"an idealized, more inclusive millieu,\" this Emmy-nominated series offers a \"headey, inviting fantasy of pleasure and true love,\" says Vulture.",
+  "metadata": {
+    "releaseYear": 2022,
+    "rating": "TV-MA",
+    "extra": "2 Seasons",
+    "isOriginal": true,
+    "storyart": "http://localhost:3000/assets/storyart/bridgerton.webp",
+    "boxart": "http://localhost:3000/assets/boxart/bridgerton.jpg"
+  }
+}
